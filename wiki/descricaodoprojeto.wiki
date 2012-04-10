@@ -1,0 +1,3 @@
+Este projeto visa desenvolver um software com objetivo de sistematizar e organizar tabelas de competição em eventos futebolísticos. Devendo atender a demanda de ligas profissionais e amadores também. Tem como meta otimizar tempo e facilitar a personalização da liga: os possíveis confrontos de um campeonato, as formas de adicionar novos participantes, as regras do torneio, os critérios de classificação e eliminação, a quantidade de partidas, as datas, a divisão dos grupos de participantes, os artilheiros do campeonato, entre outras especificações definidas pelo usuário.
+
+Existirá também a personalização da área gráfica do software, com o intuito de atender exigências gráficas e visuais individuais de cada cliente.
