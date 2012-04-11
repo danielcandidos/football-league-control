@@ -1,41 +1,36 @@
 *Casos de Uso*
 
 *UC001: Cadastro de times*
-
-<br>•Objetivo: Cadastrar times para um determinado torneio, adicionando informações sobre a equipe e seus respectivos jogadores.
-<br>•Ator: Administrador
-<br>•Prioridade: alta 
-<br>•Pré-Condição: Ter permissão para alterar ou adicionar dados 
-<br>•Pós-Condição: salvar alterações 
+<br>• Objetivo: Cadastrar times para um determinado torneio, adicionando informações sobre a equipe e seus respectivos jogadores.
+<br>• Ator: Administrador
+<br>• Prioridade: alta 
+<br>• Pré-Condição: Ter permissão para alterar ou adicionar dados 
+<br>• Pós-Condição: salvar alterações 
 
 *UC002: Escolha da forma de disputa*
-
-•Objetivo: Definir as características da disputa. Aonde serão inseridos dados sobre as particularidades e fórmula na qual o torneio será realizado.
-•Ator: Administrador 
-•Prioridade: alta 
-•Pré-Condição: Ter permissão para alterar ou adicionar dados
-•Pós-Condição: salvar alterações 
+<br>• Objetivo: Definir as características da disputa. Aonde serão inseridos dados sobre as particularidades e fórmula na qual o torneio será realizado.
+<br>• Ator: Administrador 
+<br>• Prioridade: alta 
+<br>• Pré-Condição: Ter permissão para alterar ou adicionar dados
+<br>• Pós-Condição: salvar alterações 
 
 *UC003: Inserção de dados no decorrer do campeonato*
-
-•Objetivo: Informar dados de cada partida.
-•Ator: Administrador
-•Prioridade: alta 
-•Pré-Condição: Ter permissão para alterar ou adicionar dados 
-•Pós-Condição: salvar alterações 
+<br>• Objetivo: Informar dados de cada partida.
+<br>• Ator: Administrador
+<br>• Prioridade: alta 
+<br>• Pré-Condição: Ter permissão para alterar ou adicionar dados 
+<br>• Pós-Condição: salvar alterações 
 
 *UC004: Cadastro*
-
-•Objetivo: Cadastrar usuário para uso do sistema. 
-•Ator: Usuário 
-•Prioridade: média 
-•Pré-Condição: estar logado no sistema 
-•Pós-Condição: confirmar senha 
+<br>• Objetivo: Cadastrar usuário para uso do sistema. 
+<br>• Ator: Usuário 
+<br>• Prioridade: média 
+<br>• Pré-Condição: estar logado no sistema 
+<br>• Pós-Condição: confirmar senha 
 
 *UC005: Consulta de dados*
-
-•Objetivo: Obter informações sobre o campeonato.
-•Ator: Usuário 
-•Prioridade: media 
-•Pré-Condição: estar cadastrado e logado no sistema 
-•Pós-Condição: nenhuma
+<br>• Objetivo: Obter informações sobre o campeonato.
+<br>• Ator: Usuário 
+<br>• Prioridade: media 
+<br>• Pré-Condição: estar cadastrado e logado no sistema 
+<br>• Pós-Condição: nenhuma
