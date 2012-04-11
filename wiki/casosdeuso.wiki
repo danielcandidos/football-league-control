@@ -2,7 +2,7 @@
 
 *UC001: Cadastro de times*
 
-•Objetivo: Cadastrar times para um determinado torneio, adicionando informações sobre a equipe e seus respectivos jogadores. 
+•Objetivo: Cadastrar times para um determinado torneio, adicionando informações sobre a equipe e seus respectivos jogadores.
 •Ator: Administrador
 •Prioridade: alta 
 •Pré-Condição: Ter permissão para alterar ou adicionar dados 
