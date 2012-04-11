@@ -12,4 +12,4 @@ São relacionados ao ambiente no qual o sistema é desenvolvido. São determinad
 
 *- RNF005:* Utilização da linguagem de programação C#;
 
-*- RNF006:* Utilização da linguagem de consulta estruturada MySQL.
+*- RNF006:* Utilização da linguagem de consulta estruturada SQL Server.
