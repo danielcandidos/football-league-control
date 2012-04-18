@@ -4,12 +4,10 @@ São relacionados ao ambiente no qual o sistema é desenvolvido. São determinad
 
 *- RNF001:* Os dados devem ser protegidos contra acesso não-autorizado;
 
-*- RNF002:* O tempo de desenvolvimento do software não deve ultrapassar dois e meses e quinze dias;
+*- RNF002:* O tempo de resposta do sistema não deve passar dos quinze segundos;
 
-*- RNF003:* O tempo de resposta do sistema não deve passar dos quinze segundos;
+*- RNF003:* Deve ser desenvolvida uma área gráfica intuitiva e visualmente atraente;
 
-*- RNF004:* Deve ser desenvolvida uma área gráfica intuitiva e visualmente atraente;
+*- RNF004:* Utilização da linguagem de programação C#;
 
-*- RNF005:* Utilização da linguagem de programação C#;
-
-*- RNF006:* Utilização da linguagem de consulta estruturada SQL Server.
+*- RNF005:* Utilização da linguagem de consulta estruturada SQL Server.
