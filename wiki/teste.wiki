@@ -1,5 +1,5 @@
 ===UC0001 - Acervo de filmes===
-<table border="1" cellspacing="3" cellpadding="3" width="560">
+<table border="1" cellspacing="3" cellpadding="3" width="595">
 <tr> 
 <td width=20%> *Objetivos* </td> 
 <td width=80%> Cadastrar, remover e alterar filmes que o estabelecimento possui. </td> 
