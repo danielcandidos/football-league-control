@@ -25,3 +25,6 @@
 <td> Alterar, remover e alterar dados dos filmes </td> 
 </tr> 
 </table>
+
+
+<p><table class="wikitable"><tr><td style="border: 1px solid #ccc; padding: 5px;"> <strong>Objetivo</strong> </td><td style="border: 1px solid #ccc; padding: 5px;"> Cadastrar os professores. </td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;"> <strong>Descrição</strong> </td><td style="border: 1px solid #ccc; padding: 5px;"> O administrador registra, edita e exclui informação de um professor. </td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;"> <strong>Ator</strong> </td><td style="border: 1px solid #ccc; padding: 5px;"> Administrador e Professor </td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;"> <strong>Prioridade</strong> </td><td style="border: 1px solid #ccc; padding: 5px;"> Média. </td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;"> <strong>Pré-condição</strong> </td><td style="border: 1px solid #ccc; padding: 5px;"> O usuário ter logado como Administrador. </td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;"> <strong>Pós-condições</strong> </td><td style="border: 1px solid #ccc; padding: 5px;"> O professor é cadastrado. </td></tr> </table></p>
