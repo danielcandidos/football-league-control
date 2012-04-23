@@ -113,22 +113,22 @@
 </tr> 
 </table>
 
-<table border="1" cellspacing="3" cellpadding="3" width="690">
+<table border="1" cellspacing="3" cellpadding="3" width="680">
 <tr> 
-<td align=middle width=15% rowspan=2>*Cadastro de DVD*</td>
-<td width=85%>1. Gerente comprar um novo DVD.</td></tr>
-<tr><td width=85%>2. Funcionário cadastra os dados do DVD na no sistema.</td>
+<td align=middle width=18% rowspan=2>*Cadastro de DVD*</td>
+<td width=82%>1. Gerente comprar um novo DVD.</td></tr>
+<tr><td width=82%>2. Funcionário cadastra os dados do DVD na no sistema.</td>
 </tr>
 </table>
 
-<table border="1" cellspacing="3" cellpadding="3" width="690">
+<table border="1" cellspacing="3" cellpadding="3" width="680">
 <tr> 
-<td width=15% rowspan=4>*Exclusão de DVD*</td>
-<td width=85%>1. O Funcionário informa o título do DVD ou número de cadastro a ser procurado no sistema;</td></tr>
-<tr><td width=85%>2. Os dados do DVD são exibidos;</td>
+<td width=18% rowspan=4>*Exclusão de DVD*</td>
+<td width=82%>1. O Funcionário informa o título do DVD ou número de cadastro a ser procurado no sistema;</td></tr>
+<tr><td width=82%>2. Os dados do DVD são exibidos;</td>
 </tr>
-<tr><td width=85%>2. Funcionário cadastra os dados do DVD na no sistema.</td>
+<tr><td width=82%>2. Funcionário cadastra os dados do DVD na no sistema.</td>
 </tr>
-<tr><td width=85%>2. Funcionário cadastra os dados do DVD na no sistema.</td>
+<tr><td width=82%>2. Funcionário cadastra os dados do DVD na no sistema.</td>
 </tr>
 </table>
