@@ -56,15 +56,15 @@
 </table>
 
 ----
-===UC0002 - Cadastro de Clientes===
+===UC0003 - Funcionários===
 <table border="1" cellspacing="3" cellpadding="3" width="595">
 <tr> 
 <td width=20%> *Objetivos* </td> 
-<td width=80%> Cadastrar, alterar, remover e alterar dados de clientes. </td> 
+<td width=80%> Fazer cadastro dos funcionários. </td> 
 </tr> 
 <tr> 
 <td width=20%> *Descrição* </td> 
-<td width=80%> Permitir o gerenciamento de dos cadastros dos clientes. </td> 
+<td width=80%> Cadastrar, Remover, Consulta e Alteração de dados. </td> 
 </tr> 
 <tr> 
 <td width=20%> *Ator* </td> 
@@ -80,6 +80,35 @@
 </tr>
 <tr> 
 <td width=20%> *Pós-condições* </td> 
-<td width=80%> Alterar, remover e alterar dados de clientes e realizar locação de DVD's. </td> 
+<td width=80%> Ter acesso no sistema. Fazer Operações no sistema. </td> 
+</tr> 
+</table>
+
+----
+===UC0004 - Locação de DVD===
+<table border="1" cellspacing="3" cellpadding="3" width="595">
+<tr> 
+<td width=20%> *Objetivos* </td> 
+<td width=80%> Locar, Reservar e Devolver DVD's. </td> 
+</tr> 
+<tr> 
+<td width=20%> *Descrição* </td> 
+<td width=80%> Fazer as Ações de Locação de DVD's. </td> 
+</tr> 
+<tr> 
+<td width=20%> *Ator* </td> 
+<td width=80%> Cliente </td> 
+</tr> 
+<tr> 
+<td width=20%> *Prioridade* </td> 
+<td width=80%> Alta </td> 
+</tr>
+<tr> 
+<td width=20%> *Pré-condições* </td> 
+<td width=80%> Funcionário cadastrado no sistema e com permissão de acesso. Efetuar Login. </td> 
+</tr>
+<tr> 
+<td width=20%> *Pós-condições* </td> 
+<td width=80%> Locação de DVDs. Reserva. Devolução. </td> 
 </tr> 
 </table>
