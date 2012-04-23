@@ -1,0 +1,27 @@
+*UC0001 - Acervo de filmes*
+<table border="1" cellspacing="3" cellpadding="3" width="300">
+<tr> 
+<td> Objetivos </td> 
+<td> Cadastrar, remover e alterar filmes que o estabelecimento possui. </td> 
+</tr> 
+<tr> 
+<td> Descrição </td> 
+<td> Permitir o que o funcionário do estabelecimento realize as alterações. </td> 
+</tr> 
+<tr> 
+<td> Ator </td> 
+<td> Funcionário </td> 
+</tr> 
+<tr> 
+<td> Prioridade </td> 
+<td> Alta </td> 
+</tr>
+<tr> 
+<td> Pré-condições </td> 
+<td> Funcionário cadastrado no sistema e com permissão de acesso. Efetuar Login. </td> 
+</tr>
+<tr> 
+<td> Pós-condições </td> 
+<td> Alterar, remover e alterar dados dos filmes </td> 
+</tr> 
+</table>
