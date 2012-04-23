@@ -1,4 +1,4 @@
-===UC0001 - Acervo de filmes===
+==UC0001 - Acervo de filmes==
 <table border="1" cellspacing="3" cellpadding="3" width="595">
 <tr> 
 <td width=20%> *Objetivos* </td> 
@@ -27,7 +27,7 @@
 </table>
 
 ----
-===UC0002 - Cadastro de Clientes===
+==UC0002 - Cadastro de Clientes==
 <table border="1" cellspacing="3" cellpadding="3" width="595">
 <tr> 
 <td width=20%> *Objetivos* </td> 
@@ -56,7 +56,7 @@
 </table>
 
 ----
-===UC0003 - Funcionários===
+==UC0003 - Funcionários==
 <table border="1" cellspacing="3" cellpadding="3" width="595">
 <tr> 
 <td width=20%> *Objetivos* </td> 
@@ -85,7 +85,7 @@
 </table>
 
 ----
-===UC0004 - Locação de DVD===
+==UC0004 - Locação de DVD==
 <table border="1" cellspacing="3" cellpadding="3" width="595">
 <tr> 
 <td width=20%> *Objetivos* </td> 
