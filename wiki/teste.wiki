@@ -25,3 +25,31 @@
 <td width=80%> Alterar, remover e alterar dados dos filmes. </td> 
 </tr> 
 </table>
+
+===UC0002 - Cadastro de Clientes===
+<table border="1" cellspacing="3" cellpadding="3" width="595">
+<tr> 
+<td width=20%> *Objetivos* </td> 
+<td width=80%> Cadastrar, alterar, remover e alterar dados de clientes. </td> 
+</tr> 
+<tr> 
+<td width=20%> *Descrição* </td> 
+<td width=80%> Permitir o gerenciamento de dos cadastros dos clientes. </td> 
+</tr> 
+<tr> 
+<td width=20%> *Ator* </td> 
+<td width=80%> Funcionário </td> 
+</tr> 
+<tr> 
+<td width=20%> *Prioridade* </td> 
+<td width=80%> Alta </td> 
+</tr>
+<tr> 
+<td width=20%> *Pré-condições* </td> 
+<td width=80%> Funcionário cadastrado no sistema e com permissão de acesso. Efetuar Login. </td> 
+</tr>
+<tr> 
+<td width=20%> *Pós-condições* </td> 
+<td width=80%> Alterar, remover e alterar dados de clientes e realizar locação de DVD's. </td> 
+</tr> 
+</table>
