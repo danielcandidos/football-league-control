@@ -1,30 +1,27 @@
-*UC0001 - Acervo de filmes*
-<table border="1" cellspacing="3" cellpadding="3" width="300">
+===UC0001 - Acervo de filmes===
+<table border="1" cellspacing="3" cellpadding="3" width="560">
 <tr> 
-<td> Objetivos </td> 
-<td> Cadastrar, remover e alterar filmes que o estabelecimento possui. </td> 
+<td width=20%> *Objetivos* </td> 
+<td width=80%> Cadastrar, remover e alterar filmes que o estabelecimento possui. </td> 
 </tr> 
 <tr> 
-<td> Descrição </td> 
-<td> Permitir o que o funcionário do estabelecimento realize as alterações. </td> 
+<td width=20%> *Descrição* </td> 
+<td width=80%> Permitir o que o funcionário do estabelecimento realize as alterações. </td> 
 </tr> 
 <tr> 
-<td> Ator </td> 
-<td> Funcionário </td> 
+<td width=20%> *Ator* </td> 
+<td width=80%> Funcionário </td> 
 </tr> 
 <tr> 
-<td> Prioridade </td> 
-<td> Alta </td> 
+<td width=20%> *Prioridade* </td> 
+<td width=80%> Alta </td> 
 </tr>
 <tr> 
-<td> Pré-condições </td> 
-<td> Funcionário cadastrado no sistema e com permissão de acesso. Efetuar Login. </td> 
+<td width=20%> *Pré-condições* </td> 
+<td width=80%> Funcionário cadastrado no sistema e com permissão de acesso. Efetuar Login. </td> 
 </tr>
 <tr> 
-<td> Pós-condições </td> 
-<td> Alterar, remover e alterar dados dos filmes </td> 
+<td width=20%> *Pós-condições* </td> 
+<td width=80%> Alterar, remover e alterar dados dos filmes. </td> 
 </tr> 
 </table>
-
-
-<p><table class="wikitable"><tr><td style="border: 1px solid #ccc; padding: 5px;"> <strong>Objetivo</strong> </td><td style="border: 1px solid #ccc; padding: 5px;"> Cadastrar os professores. </td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;"> <strong>Descrição</strong> </td><td style="border: 1px solid #ccc; padding: 5px;"> O administrador registra, edita e exclui informação de um professor. </td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;"> <strong>Ator</strong> </td><td style="border: 1px solid #ccc; padding: 5px;"> Administrador e Professor </td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;"> <strong>Prioridade</strong> </td><td style="border: 1px solid #ccc; padding: 5px;"> Média. </td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;"> <strong>Pré-condição</strong> </td><td style="border: 1px solid #ccc; padding: 5px;"> O usuário ter logado como Administrador. </td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;"> <strong>Pós-condições</strong> </td><td style="border: 1px solid #ccc; padding: 5px;"> O professor é cadastrado. </td></tr> </table></p>
