@@ -85,7 +85,7 @@
 
 <table border="1" cellspacing="3" cellpadding="3" width="800">
 <tr> 
-<td align=middle width=110 rowspan=4>*Consulta *</td>
+<td align=middle width=110 rowspan=1>*Consulta *</td>
 <td width=600>A1. DVD não encontrado, retorna ao passo 1;</td></tr>
 </table>
 
@@ -159,6 +159,34 @@
 <td width=600>1. O Funcionário informa o nome do cliente ou número de cadastro a ser procurado;</td></tr>
 <tr><td width=600>2. Os dados do cliente são exibidos.</td>
 </tr>
+</table>
+
+===Fluxos alternativos:===
+
+<table border="1" cellspacing="3" cellpadding="3" width="800">
+<tr> 
+<td align=middle width=110 rowspan=1>*Cadastro de Cliente*</td>
+<td width=600>A1. Erro ao salvar o cadastro no sistema: uma mensagem de erro é exibida, retornando ao passo 2 para continuação do cadastro.</td></tr>
+</table>
+
+<table border="1" cellspacing="3" cellpadding="3" width="800">
+<tr> 
+<td align=middle width=110 rowspan=1>*Exclusão de Cadastro*</td>
+<td width=600>A1. Cadastro não encontrado, retorna ao passo 1;</td></tr>
+</table>
+
+<table border="1" cellspacing="3" cellpadding="3" width="800">
+<tr> 
+<td align=middle width=110 rowspan=2>*Alteração de Cadastro*</td>
+<td width=600>A1. Cadastro não encontrado, retorna ao passo 1;</td></tr>
+<tr><td width=600>A2. Erro ao salvar o cadastro: uma mensagem de erro é exibida, retornando ao passo 2.</td>
+</tr>
+</table>
+
+<table border="1" cellspacing="3" cellpadding="3" width="800">
+<tr> 
+<td align=middle width=110 rowspan=1>*Consulta *</td>
+<td width=600>A1. DVD não encontrado, retorna ao passo 1;</td></tr>
 </table>
 
 <br>
