@@ -1,4 +1,4 @@
-==UC0001 - Acervo de Filmes==
+=UC0001 - Acervo de Filmes=
 <table border="1" cellspacing="3" cellpadding="3" width="595">
 <tr> 
 <td width=20%> *Objetivos* </td> 
@@ -26,7 +26,7 @@
 </tr> 
 </table>
 
-===Cenários principais de Sucesso:===
+==Cenários principais de Sucesso:==
 <table border="1" cellspacing="3" cellpadding="3" width="800">
 <tr> 
 <td align=middle width=110 rowspan=2>*Cadastro de DVD*</td>
@@ -92,7 +92,7 @@
 <br>
 ----
 
-==UC0002 - Cadastro de Clientes==
+=UC0002 - Cadastro de Clientes=
 <table border="1" cellspacing="3" cellpadding="3" width="595">
 <tr> 
 <td width=20%> *Objetivos* </td> 
@@ -120,7 +120,7 @@
 </tr> 
 </table>
 
-===Cenários principais de Sucesso:===
+==Cenários principais de Sucesso:==
 <table border="1" cellspacing="3" cellpadding="3" width="800">
 <tr> 
 <td align=middle width=110 rowspan=3>*Cadastro de Cliente*</td>
@@ -192,7 +192,7 @@
 <br>
 ----
 
-==UC0003 - Funcionários==
+=UC0003 - Funcionários=
 <table border="1" cellspacing="3" cellpadding="3" width="595">
 <tr> 
 <td width=20%> *Objetivos* </td> 
@@ -220,7 +220,7 @@
 </tr> 
 </table>
 
-===Cenários principais de Sucesso:===
+==Cenários principais de Sucesso:==
 <table border="1" cellspacing="3" cellpadding="3" width="800">
 <tr> 
 <td align=middle width=110 rowspan=3>*Cadastro de Funcionário*</td>
@@ -292,7 +292,7 @@
 <br>
 ----
 
-==UC0004 - Locação de DVD==
+=UC0004 - Locação de DVD=
 <table border="1" cellspacing="3" cellpadding="3" width="595">
 <tr> 
 <td width=20%> *Objetivos* </td> 
@@ -320,7 +320,7 @@
 </tr> 
 </table>
 
-===Cenários principais de Sucesso:===
+==Cenários principais de Sucesso:==
 <table border="1" cellspacing="3" cellpadding="3" width="800">
 <tr> 
 <td align=middle width=110 rowspan=4>*Locação de DVD*</td>
