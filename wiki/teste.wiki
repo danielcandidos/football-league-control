@@ -261,6 +261,34 @@
 </tr>
 </table>
 
+===Fluxos alternativos:===
+
+<table border="1" cellspacing="3" cellpadding="3" width="800">
+<tr> 
+<td align=middle width=110 rowspan=1>*Cadastro de Funcionário*</td>
+<td width=600>A1. Erro ao salvar o cadastro: uma mensagem de erro é exibida, retornando ao passo 2 para continuação do cadastro.</td></tr>
+</table>
+
+<table border="1" cellspacing="3" cellpadding="3" width="800">
+<tr> 
+<td align=middle width=110 rowspan=1>*Exclusão de Cadastro*</td>
+<td width=600>A1. Cadastro não encontrado, retorna ao passo 1.</td></tr>
+</table>
+
+<table border="1" cellspacing="3" cellpadding="3" width="800">
+<tr> 
+<td align=middle width=110 rowspan=2>*Alteração de Cadastro*</td>
+<td width=600>A1. Cadastro não encontrado, retorna ao passo 1;</td></tr>
+<tr><td width=600>A2. Erro ao salvar o cadastro: uma mensagem de erro é exibida, retornando ao passo 2.</td>
+</tr>
+</table>
+
+<table border="1" cellspacing="3" cellpadding="3" width="800">
+<tr> 
+<td align=middle width=110 rowspan=1>*Consulta de Funcionário*</td>
+<td width=600>A1. Cadastro não encontrado, retorna ao passo 1.</td></tr>
+</table>
+
 <br>
 ----
 
