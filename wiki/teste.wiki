@@ -26,7 +26,29 @@
 </tr> 
 </table>
 
+===Cenários principais de Sucesso:===
+<table border="1" cellspacing="3" cellpadding="3" width="800">
+<tr> 
+<td align=middle width=110 rowspan=2>*Cadastro de DVD*</td>
+<td width=600>1. Gerente comprar um novo DVD;</td></tr>
+<tr><td width=600>2. Funcionário cadastra os dados do DVD na no sistema.</td>
+</tr>
+</table>
+
+<table border="1" cellspacing="3" cellpadding="3" width="800">
+<tr> 
+<td width=110 rowspan=4>*Exclusão de DVD*</td>
+<td width=600>1. O Funcionário informa o título do DVD ou número de cadastro a ser procurado no sistema;</td></tr>
+<tr><td width=600>2. Os dados do DVD são exibidos;</td>
+</tr>
+<tr><td width=600>3. O Funcionário seleciona a opção de excluir o DVD e uma mensagem de confirmação é exibida pelo sistema;</td>
+</tr>
+<tr><td width=600>4. O Funcionário confirma e o DVD é excluído definitivamente do sistema.</td>
+</tr>
+</table>
+<br>
 ----
+
 ==UC0002 - Cadastro de Clientes==
 <table border="1" cellspacing="3" cellpadding="3" width="595">
 <tr> 
@@ -111,24 +133,4 @@
 <td width=20%> *Pós-condições* </td> 
 <td width=80%> Locação de DVDs. Reserva. Devolução. </td> 
 </tr> 
-</table>
-
-<table border="1" cellspacing="3" cellpadding="3" width="680">
-<tr> 
-<td align=middle width=18% rowspan=2>*Cadastro de DVD*</td>
-<td width=82%>1. Gerente comprar um novo DVD.</td></tr>
-<tr><td width=82%>2. Funcionário cadastra os dados do DVD na no sistema.</td>
-</tr>
-</table>
-
-<table border="1" cellspacing="3" cellpadding="3" width="680">
-<tr> 
-<td width=18% rowspan=4>*Exclusão de DVD*</td>
-<td width=82%>1. O Funcionário informa o título do DVD ou número de cadastro a ser procurado no sistema;</td></tr>
-<tr><td width=82%>2. Os dados do DVD são exibidos;</td>
-</tr>
-<tr><td width=82%>2. Funcionário cadastra os dados do DVD na no sistema.</td>
-</tr>
-<tr><td width=82%>2. Funcionário cadastra os dados do DVD na no sistema.</td>
-</tr>
 </table>
