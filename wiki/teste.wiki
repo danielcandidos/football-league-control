@@ -37,7 +37,7 @@
 
 <table border="1" cellspacing="3" cellpadding="3" width="800">
 <tr> 
-<td width=110 rowspan=4>*Exclusão de DVD*</td>
+<td align=middle width=110 rowspan=4>*Exclusão de DVD*</td>
 <td width=600>1. O Funcionário informa o título do DVD ou número de cadastro a ser procurado no sistema;</td></tr>
 <tr><td width=600>2. Os dados do DVD são exibidos;</td>
 </tr>
@@ -46,6 +46,25 @@
 <tr><td width=600>4. O Funcionário confirma e o DVD é excluído definitivamente do sistema.</td>
 </tr>
 </table>
+
+<table border="1" cellspacing="3" cellpadding="3" width="800">
+<tr> 
+<td align=middle width=110 rowspan=3>*Alteração de dados*</td>
+<td width=600>1. O Funcionário informa o título do DVD ou número de cadastro a ser procurado no sistema;</td></tr>
+<tr><td width=600>2. Os dados do DVD são exibidos;</td>
+</tr>
+<tr><td width=600>3. O Funcionário altera os dados e salva e finaliza a operação.</td>
+</tr>
+</table>
+
+<table border="1" cellspacing="3" cellpadding="3" width="800">
+<tr> 
+<td align=middle width=110 rowspan=2>*Consulta *</td>
+<td width=600>1. O Funcionário informa o título do DVD ou número de cadastro a ser procurado no sistema;</td></tr>
+<tr><td width=600>2. Os dados do DVD são exibidos.</td>
+</tr>
+</table>
+
 <br>
 ----
 
