@@ -239,3 +239,44 @@
 <td width=80%> Locação de DVDs. Reserva. Devolução. </td> 
 </tr> 
 </table>
+
+===Cenários principais de Sucesso:===
+<table border="1" cellspacing="3" cellpadding="3" width="800">
+<tr> 
+<td align=middle width=110 rowspan=4>*Locação de DVD*</td>
+<td width=600>1. Cliente visualiza os DVD´s que estão cadastrados e disponíveis no sistema para locação;</td></tr>
+<tr><td width=600>2. Funcionário Preenche formulário de locação para cliente;</td>
+</tr>
+<tr><td width=600>3. DVD é locado para cliente, e com data para devolução;</td>
+</tr>
+<tr><td width=600>4. DVD('s) selecionado(s) se torna indisponível para locação.</td>
+</tr>
+</table>
+
+<table border="1" cellspacing="3" cellpadding="3" width="800">
+<tr> 
+<td align=middle width=110 rowspan=5>*Reserva de DVD*</td>
+<td width=600>1. Funcionário visualiza os DVD´s que estão cadastrados no sistema para locação;</td></tr>
+<tr><td width=600>2. Funcionário Preenche formulário de reserva para cliente;</td>
+</tr>
+<tr><td width=600>3. DVD é reservado para cliente, com validade para locação;</td>
+</tr>
+<tr><td width=600>4. DVD selecionado se torna indisponível para locação;</td>
+</tr>
+<tr><td width=600>5. Caso DVD não seja locado até a data de validade, o DVD volta a ser disponível para todos.</td>
+</tr>
+</table>
+
+<table border="1" cellspacing="3" cellpadding="3" width="800">
+<tr> 
+<td align=middle width=110 rowspan=4>*Devolução de DVD*</td>
+<td width=600>1. O Funcionário informa o código da locação dentro do sistema;</td></tr>
+<tr><td width=600>2. Os dados da locação são exibidos;</td>
+</tr>
+<tr><td width=600>3. O Funcionário completa formulário de devolução de DVD;</td>
+</tr>
+<tr><td width=600>4. O DVD se torna disponível para locação.</td>
+</tr>
+</table>
+
+<br>
