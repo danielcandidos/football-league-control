@@ -359,4 +359,26 @@
 </tr>
 </table>
 
+===Fluxos alternativos:===
+
+<table border="1" cellspacing="3" cellpadding="3" width="800">
+<tr> 
+<td align=middle width=110 rowspan=1>*Locação de DVD*</td>
+<td width=600>A1. Erro ao salvar o cadastro no sistema: uma mensagem de erro é exibida, retornando ao passo 2.</td></tr>
+</table>
+
+<table border="1" cellspacing="3" cellpadding="3" width="800">
+<tr> 
+<td align=middle width=110 rowspan=1>*Reserva de DVD*</td>
+<td width=600>A1. Erro ao salvar o cadastro no sistema: uma mensagem de erro é exibida, retornando ao passo 2.</td></tr>
+</table>
+
+<table border="1" cellspacing="3" cellpadding="3" width="800">
+<tr> 
+<td align=middle width=110 rowspan=2>*Devolução de DVD*</td>
+<td width=600>A1.Código da locação não encontrado, retorna ao passo 1;</td></tr>
+<tr><td width=600>A2. Erro ao salvar o registro: uma mesagem de erro é exibida, retornando ao passo 3.</td>
+</tr>
+</table>
+
 <br>
