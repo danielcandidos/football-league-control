@@ -168,7 +168,50 @@
 </tr> 
 </table>
 
+===Cenários principais de Sucesso:===
+<table border="1" cellspacing="3" cellpadding="3" width="800">
+<tr> 
+<td align=middle width=110 rowspan=3>*Cadastro de Funcionário*</td>
+<td width=600>1. O novo Funcionário informa seus dados pessoais para a realização do cadastro;</td></tr>
+<tr><td width=600>2. O Gerente logado no sistema cadastra os dados do novo funcionário no sistema;</td>
+</tr>
+<tr><td width=600>3. O sistema envia uma mensagem de êxito, após a realização de cadastro.</td>
+</tr>
+</table>
+
+<table border="1" cellspacing="3" cellpadding="3" width="800">
+<tr> 
+<td align=middle width=110 rowspan=4>*Exclusão de Cadastro*</td>
+<td width=600>1. O Gerente informa o nome do funcionário a ser procurado no sistema;</td></tr>
+<tr><td width=600>2. Os dados do funcionário são exibidos;</td>
+</tr>
+<tr><td width=600>3. O Gerente seleciona a opção de excluir o cadastro e uma mensagem de confirmação é exibida;</td>
+</tr>
+<tr><td width=600>4. O Gerente confirma e o cadastro é excluído.</td>
+</tr>
+</table>
+
+<table border="1" cellspacing="3" cellpadding="3" width="800">
+<tr> 
+<td align=middle width=110 rowspan=3>*Alteração de Cadastro*</td>
+<td width=600>1. O Gerente informa o nome do funcionário a ser procurado na base de dados;</td></tr>
+<tr><td width=600>2. Os dados do funcionário são exibidos;</td>
+</tr>
+<tr><td width=600>3. O Gerente altera os dados e salva na base de dados.</td>
+</tr>
+</table>
+
+<table border="1" cellspacing="3" cellpadding="3" width="800">
+<tr> 
+<td align=middle width=110 rowspan=2>*Consulta *</td>
+<td width=600>1. O Gerente informa o nome do funcionário a ser procurado;</td></tr>
+<tr><td width=600>2. Os dados do funcionário são exibidos.</td>
+</tr>
+</table>
+
+<br>
 ----
+
 ==UC0004 - Locação de DVD==
 <table border="1" cellspacing="3" cellpadding="3" width="595">
 <tr> 
