@@ -1,0 +1,3 @@
+**Diagrama de Caso de Uso:**
+
+<img src='http://paocomgraxa.webs.com/diagrama.jpg'>

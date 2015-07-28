@@ -1,0 +1,13 @@
+**Requisitos Não-Funcionais:**
+
+São relacionados ao ambiente no qual o sistema é desenvolvido. São determinados nele, conceitos de manutenção, usabilidade, compatibilidades com diversas plataformas, período de desenvolvimento e implantação do projeto, firewall, um servidor mais robusto para rodar o aplicativo, um usuário especializado. Tudo voltado à tentativa de melhorar o desempenho do sistema, a fim de facilitar a utilização dele pelo usuário final.
+
+**- RNF001:** Os dados devem ser protegidos contra acesso não-autorizado;
+
+**- RNF002:** O tempo de resposta do sistema não deve passar dos quinze segundos;
+
+**- RNF003:** Deve ser desenvolvida uma área gráfica intuitiva e visualmente atraente;
+
+**- RNF004:** Utilização da linguagem de programação C#;
+
+**- RNF005:** Utilização da linguagem de consulta estruturada SQL Server.

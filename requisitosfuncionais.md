@@ -1,0 +1,19 @@
+**Requisitos Funcionais:**
+
+Determinam o que se espera que o software, sem se importar com a maneira que ele faz. Como a emissão de relatórios em um prazo definido, as formas de armazenamento de um cadastro, entre outros. Serão implementados no próprio sistema e da junção desses requisitos o corpo do sistema será montado.
+
+**- RF001:** Organizar eventos esportivos tanto de porte amador quanto profissional
+
+**- RF002:** Número de Participantes
+
+**- RF003:** Regras do torneio
+
+**- RF004:** Quantidade de partidas
+
+**- RF005:** Critérios de classificação
+
+**- RF006:** Todas as informações inseridas em um banco de dados
+
+**- RF007:** Emitir as tabelas do torneio
+
+**- RF008:** Consulta das informações, inseridas e armazenadas, rodada a rodada
